@@ -1,1 +1,2 @@
 function dynajob:internal/armorstandshow
+function dynajob:internal/armorstandremove

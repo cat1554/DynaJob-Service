@@ -1,0 +1,1 @@
+execute as @a if entity @s[nbt={SelectedItem:{id:"minecraft:bat_spawn_egg",isDynajobTool:true}}] run effect give @e[team=dynajob.stands] glowing 5 1 true

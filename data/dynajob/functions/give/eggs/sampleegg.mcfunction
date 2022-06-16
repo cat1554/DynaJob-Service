@@ -1,1 +1,1 @@
-give @p bat_spawn_egg{isDynajobTool:true,EntityTag:{id:"minecraft:bat",Tags:["isDynajobObject:true"]}}
+give @p bat_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Team:"dynajob.stands"}}

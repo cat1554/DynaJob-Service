@@ -1,1 +1,1 @@
-execute as @a at @s if entity @s[nbt={SelectedItem:{id:"minecraft:bat_spawn_egg"},IsTool:1}] run effect give @e[type=minecraft:armor_stand,distance=..8,team=dynajob.stands] minecraft:glowing 1 1 true
+execute as @a at @s if entity @s[nbt={IsTool:1}] run effect give @e[type=minecraft:armor_stand,distance=..8,team=dynajob.stands] minecraft:glowing 1 1 true

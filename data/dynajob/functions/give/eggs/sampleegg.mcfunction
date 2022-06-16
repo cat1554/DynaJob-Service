@@ -1,1 +1,2 @@
-give @p bat_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Team:"dynajob.stands",Small:1,NoGravity:1,Invisible:1}}
+give @p vex_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Team:"dynajob.stands",Small:1,NoGravity:1,Invisible:1},display:{Name:'{"italic":false,"color":"white","bold":true,"text":"Place stand"}'}}
+give @p spider_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Team:"dynajob.removalstands",Small:1,NoGravity:1,Invisible:1},display:{Name:'{"italic":false,"color":"dark_red","bold":true,"text":"Remove stand"}'}}

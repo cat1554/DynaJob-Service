@@ -1,1 +1,1 @@
-execute at @e[team=dynajob.remstands] run kill @e[type=minecraft:armor_stand,distance=..0.5]
+execute at @e[team=dynajob.rstands] run kill @e[type=minecraft:armor_stand,distance=..0.5]

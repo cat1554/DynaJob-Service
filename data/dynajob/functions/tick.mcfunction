@@ -1,4 +1,2 @@
 function dynajob:internal/armorstandshow
 function dynajob:internal/armorstandremove
-function dynajob:internal/bnkrandom/bnkrndinc
-function dynajob:internal/bnkrandom/bnkrndreset

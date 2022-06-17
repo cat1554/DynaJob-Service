@@ -1,0 +1,1 @@
+scoreboard players add var dyn.bank.rnd 1 

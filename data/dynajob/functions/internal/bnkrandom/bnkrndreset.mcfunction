@@ -1,0 +1,1 @@
+scoreboard players set var dyn.bank.rnd 0 
